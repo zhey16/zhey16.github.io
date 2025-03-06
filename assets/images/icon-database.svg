@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main database shape with opacity -->
+  <path opacity="0.15" fill-rule="evenodd" clip-rule="evenodd" d="M20 5C12.268 5 6 7.686 6 11V29C6 32.314 12.268 35 20 35C27.732 35 34 32.314 34 29V11C34 7.686 27.732 5 20 5Z" fill="url(#paint0_linear)"/>
+  <path d="M20 6.5C13.3726 6.5 7.5 8.84315 7.5 11.75V28.25C7.5 31.1569 13.3726 33.5 20 33.5C26.6274 33.5 32.5 31.1569 32.5 28.25V11.75C32.5 8.84315 26.6274 6.5 20 6.5Z" stroke="url(#paint1_linear)" stroke-width="1.5"/>
+  <ellipse cx="20" cy="11.75" rx="12.5" ry="5.25" stroke="url(#paint1_linear)" stroke-width="1.5"/>
+  <path d="M7.5 20C7.5 22.9069 13.3726 25.25 20 25.25C26.6274 25.25 32.5 22.9069 32.5 20" stroke="url(#paint1_linear)" stroke-width="1.5"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="8" y1="5" x2="40" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="7.5" y1="6.5" x2="40" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+</svg>
